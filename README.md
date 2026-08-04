@@ -1,6 +1,6 @@
 # Encryption & Decryption Tool using Python
 
-## 📌 Project Overview
+## 📌 Project Overview:
 This project is a **Python-based Encryption and Decryption Tool** that allows users to
 secure sensitive information by converting plaintext into encrypted ciphertext and
 decrypting it back using a secret key.
